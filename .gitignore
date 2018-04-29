@@ -1,3 +1,11 @@
 .idea/
 /node_modules
 package-lock.json
+# compiled output
+client/dist
+client/dist-server
+client/tmp
+client/out-tsc
+
+# dependencies
+client/node_modules
